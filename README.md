@@ -4,27 +4,28 @@ This folder contains a set of HTML demos for responsive web design and CSS grid 
 
 ## Files included
 - basic-grid-demo.html
-<video controls src="Screen Recording 2026-08-03 at 4.25.24 PM.mov" title="
-"></video>
-
 - css-grid-demo.html
-<video controls src="Screen Recording 2026-08-03 at 4.29.52 PM.mov" title="
-"></video>
-
 - rwd-bckgrdimage-demo1.html
-<video controls src="Screen Recording 2026-08-03 at 4.33.13 PM-2.mov" title="Title"></video>
-
 - rwd-bckgrdimage-demo2.html
-<video controls src="Screen Recording 2026-08-03 at 4.35.27 PM.mov" title="Title"></video>
-
 - rwd-bckgrdimage-demo3.html
-<video controls src="Screen Recording 2026-08-03 at 4.47.55 PM.mov" title="Title"></video>
-
 - rwd-image-demo1.html
-<video controls src="Screen Recording 2026-08-03 at 4.50.32 PM.mov" title="Title"></video>
-
 - rwd-image-demo2.html
-<video controls src="Screen Recording 2026-08-03 at 5.44.45 PM.mov" title="Title"></video>
-
 - rwd-image-demo3.html
-<video controls src="Screen Recording 2026-08-03 at 5.46.35 PM.mov" title="Title"></video>
+
+## Demo videos
+
+<video controls width="640" src="video-01.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-02.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-03.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-04.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-05.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-06.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-07.mp4" preload="metadata"></video>
+
+<video controls width="640" src="video-08.mp4" preload="metadata"></video>
