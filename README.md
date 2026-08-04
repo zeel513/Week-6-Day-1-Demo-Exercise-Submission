@@ -12,20 +12,20 @@ This folder contains a set of HTML demos for responsive web design and CSS grid 
 - rwd-image-demo2.html
 - rwd-image-demo3.html
 
-## Demo videos
+## Demo screenshots
 
-<video controls width="640" src="video-01.mp4" preload="metadata"></video>
+![Demo 1](screenshots/video-01.jpg)
 
-<video controls width="640" src="video-02.mp4" preload="metadata"></video>
+![Demo 2](screenshots/video-02.jpg)
 
-<video controls width="640" src="video-03.mp4" preload="metadata"></video>
+![Demo 3](screenshots/video-03.jpg)
 
-<video controls width="640" src="video-04.mp4" preload="metadata"></video>
+![Demo 4](screenshots/video-04.jpg)
 
-<video controls width="640" src="video-05.mp4" preload="metadata"></video>
+![Demo 5](screenshots/video-05.jpg)
 
-<video controls width="640" src="video-06.mp4" preload="metadata"></video>
+![Demo 6](screenshots/video-06.jpg)
 
-<video controls width="640" src="video-07.mp4" preload="metadata"></video>
+![Demo 7](screenshots/video-07.jpg)
 
-<video controls width="640" src="video-08.mp4" preload="metadata"></video>
+![Demo 8](screenshots/video-08.jpg)
